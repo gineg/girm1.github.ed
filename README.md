@@ -1,1 +1,1 @@
-# girm1.github.ed
+View my resume site at http://girm1.github.io/demo
